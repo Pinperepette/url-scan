@@ -1,6 +1,6 @@
 # url-scan
 un semplice script per scrivere in un file tutti gli url di un sito
-#OPTIONS:
+OPTIONS:
 
    -h      Show this message
    -t      Target
